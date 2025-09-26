@@ -155,7 +155,6 @@ header {
             grid-template-columns: repeat(5, 1fr);
             /*grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));*/
             gap: 2rem;
-            /*height: 150px;*/
             margin-top: 2rem;
             margin-left: 150px;
             grid-template-areas: 
@@ -228,7 +227,7 @@ header {
 
         .btn {
             display: inline-block;
-            background: #ff6f00;
+            background: #f38a00;
             color: white;
             padding: 0.8rem 1.5rem;
             text-decoration: none;
@@ -296,10 +295,4 @@ header {
             .hero p {
                 font-size: 1rem;
             }
-
         }
-
-
-
-
-
