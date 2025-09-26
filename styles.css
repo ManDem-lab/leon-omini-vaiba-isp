@@ -169,6 +169,7 @@ header {
             padding: 2rem;
             transition: transform 0.3s ease;
             width: 100%;
+            height:150px;
         }
 
         .package-card1 {
@@ -177,6 +178,7 @@ header {
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             padding: 2rem;
             transition: transform 0.3s ease;
+            height:150px;
         }
         .package-card2 {
             background: white;
@@ -184,6 +186,7 @@ header {
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             padding: 2rem;
             transition: transform 0.3s ease;
+            height:150px;
         }
 
         .package-card3 {
@@ -192,6 +195,7 @@ header {
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             padding: 2rem;
             transition: transform 0.3s ease;
+            height:150px;
         }
         
         .package-card4 {
@@ -200,6 +204,7 @@ header {
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             padding: 2rem;
             transition: transform 0.3s ease;
+            height:150px;
         }
 
         .package-card:hover {
@@ -298,3 +303,4 @@ header {
             }
 
         }
+
